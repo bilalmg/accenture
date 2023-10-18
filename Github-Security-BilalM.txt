@@ -1,0 +1,22 @@
+Create a GitHub Repository:
+
+I visit GitHub.
+I'm already logged into my GitHub account, which is "bmughal786."
+I click on the "+" sign in the top right corner to create a new repository.
+Fill in Repository Details:
+
+For the repository name, I choose "AccentureCloud-Security-Measures."
+I add an optional brief description.
+For visibility, I select "Public" as I want to share this security document with others.
+Initialize the Repository:
+
+I leave the options for initializing the repository with a README, .gitignore, and license unchecked for now.
+Create the Repository:
+
+I click the "Create repository" button to create the new repository.
+Upload My Document:
+
+After creating the repository, I click on the "Add file" button to upload the Accenture Cloud security measures document. I might also create the document directly on GitHub if I prefer.
+Commit Changes:
+
+Once the document is uploaded, I commit the changes to the repository. I provide a commit message to describe the changes, such as "Added Accenture Cloud security measures document."

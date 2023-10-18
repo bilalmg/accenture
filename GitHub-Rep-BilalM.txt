@@ -1,0 +1,54 @@
+Action 1: I Created a GitHub Repository
+
+I started by going to GitHub and signing in to my GitHub account.
+
+I then clicked on the "+" sign in the top right corner and selected "New repository."
+
+Action 2: I Filled in Repository Details
+
+In the "Repository name," I gave it a name, such as "Accenture-Cloud," which is fitting for my project.
+
+I provided a brief description and chose the visibility of the repository (Public or Private) based on my preferences.
+
+Action 3: I Initialized the Repository
+
+I had the option to initialize the repository with a README file, but I decided to edit this later to match my project structure.
+
+Action 4: I Cloned the Repository
+
+To work on my project locally, I opened a terminal and navigated to the directory where I wanted to store my project.
+
+I then ran the following command, replacing <repository_url> with the URL of my newly created GitHub repository:
+
+git clone <repository_url>
+
+Action 5: I Created the Directory Structure
+
+Within my local repository, I created the necessary directory structure. Here are the commands I used:
+
+cd Accenture-Cloud
+mkdir diagrams
+mkdir documentation
+
+Action 6: I Added Files to the Repository
+
+I placed my architecture diagram file (SysArchBilalM.txt) in the diagrams directory.
+
+I also put my explanation document (CloudArch.docx) in the documentation directory using these commands:
+
+
+mv path/to/SysArchBilalM.txt diagrams/
+mv path/to/CloudArch.docx documentation/
+
+Action 7: I Committed and Pushed Changes
+
+With my files in place, I added, committed, and pushed these changes to my GitHub repository:
+
+git add .
+git commit -m "Added architecture diagram and explanation document"
+git push origin main
+
+Action 8: I Edited the README
+
+I edited the README file, now named AccentureCloud-BilalM-Readme.md, to provide an overview of my project, instructions.
+
