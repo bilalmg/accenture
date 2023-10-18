@@ -1,0 +1,41 @@
+I Created a New GitHub Repository:
+
+I visit GitHub.
+I log in to my GitHub account.
+I Click on the "+" Sign in the Top Right Corner and select "New repository."
+
+I Fill in the Repository Details:
+
+I choose a repository name, such as "AccentureCloud-FileManagement-APIs."
+Optionally, I add a brief description.
+I choose the visibility (Public) based on my preference.
+
+I Initialize the Repository:
+
+I can choose to initialize the repository with a README or add a .gitignore or license later. I decide to proceed without these for now.
+I Create the Repository:
+
+I click the "Create repository" button to create my new repository.
+
+I Push My Local Code to the Repository:
+
+In my terminal, I navigate to the directory where my Flask application code is located.
+
+I initialize a Git repository if I haven't already:
+
+git init
+
+I add my files to the repository and make an initial commit:
+
+git add .
+git commit -m "Initial commit"
+
+I connect my local repository to the one I created on GitHub:
+
+git remote add origin <repository_url>
+I replace <repository_url> with the URL of the GitHub repository I created in step 3.
+
+Finally, I push my code to the GitHub repository:
+
+Copy code
+git push -u origi
